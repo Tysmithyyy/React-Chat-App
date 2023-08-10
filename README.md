@@ -1,4 +1,4 @@
-#Chef Bot
+# Chef Bot
 
 [link to Chef Bot](https://chefbot.smithyyy.dev)
 
