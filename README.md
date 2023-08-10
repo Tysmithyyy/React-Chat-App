@@ -1,3 +1,13 @@
+#Chef Bot
+
+[link to Chef Bot](https://chefbot.smithyyy.dev)
+
+This project is an AI cooking assistant utilizing the OpenAI API and ChatGPT technologies. It is built on the NextJS React framework and uses Tailwind CSS.
+
+This project is meant to showcase my understanding of chat-based applications, JavaScript frameworks, and API use. 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
